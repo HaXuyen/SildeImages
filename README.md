@@ -1,0 +1,2 @@
+# SildeImages
+.netframework
